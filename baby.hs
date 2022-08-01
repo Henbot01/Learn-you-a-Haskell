@@ -12,6 +12,10 @@ conanO'Brien = "it's a-me, Conan O'Brien!"
 -- page 7 lists
 lostNumbers = [4,8,15,16,23,42]
 
+--creating b list here for continued use
+b = [[1,2,3,4],[5,3,3,3],[1,2,2,3,4],[1,2,3]]
+
+
 --page 8 concatenation
 -- ++ is the concat to join lists
 -- strings are lists of characters
@@ -132,6 +136,7 @@ lostNumbers = [4,8,15,16,23,42]
 
 -- *Main> [1..20]
 -- [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+-- test
 
 
 
